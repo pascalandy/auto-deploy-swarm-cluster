@@ -1,0 +1,1 @@
+Listen the context of this project here — http://firepress.org/blog/auto-deploy-a-swarm-cluster-open-source-project/
